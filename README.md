@@ -1,1 +1,1 @@
-repozytorium dla grupy 1 WEB-GIS
+Projekt aplikacji webowej
